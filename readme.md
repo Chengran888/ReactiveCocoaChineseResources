@@ -38,6 +38,12 @@ QQ讨论群：430033580
 
 [ReactiveCocoa2 源码浅析](http://blog.csdn.net/womendeaiwoming/article/details/48036725)
 
+##资料
+| 资料名称   |  资料描述 |
+|:-------:|:-------:|
+|[Learn ReactiveCocoa Source](https://github.com/mailworks/LearnReactivecocoaSource)|学习ReactiveCocoa(主要针对2.x Objective-C 版本)过程中整理的一些资料。|
+
+
 ##开源项目
 
 | 项目名称                                                                      |                                        项目描述                      |
