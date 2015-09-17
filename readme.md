@@ -52,6 +52,7 @@ QQ讨论群：430033580
 | [ashfurrow/C-41](https://github.com/ashfurrow/C-41)                          |[介绍博客](http://blog.csdn.net/zzdjk6/article/details/46996571)     |    
 | [arbullzhang/KoalaFRP](https://github.com/arbullzhang/KoalaFRP)              |  说明:FunctionalReactivePixels 做了修改，因为编译不过。                 |
 | [leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)| **推荐！一个完整的使用MVVM和RAC的Github客户端，leichunfeng大师作品。**|
+|[ashfurrow / FunctionalReactivePixels](https://github.com/ashfurrow/FunctionalReactivePixels)|演示使用500px的API来使用FRP与ReactiveCocoa在iOS的环境。|
 
 ##翻译计划
 如果有同学想翻译什么文章，或者官方文档，请到issue里提出来，可以是自己搜索到的。
