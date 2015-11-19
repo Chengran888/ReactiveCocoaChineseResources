@@ -25,6 +25,17 @@ QQ讨论群：430033580
 
 [Reactive Cocoa Tutorial [4] = 只取所需的Filters](http://blog.sunnyxx.com/2014/04/19/rac_4_filters/)
 
+[ReactiveCocoa2 源码浅析](http://nathanli.cn/2015/08/27/reactivecocoa2-源码浅析/)
+
+[最快让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)
+
+[最快让你上手ReactiveCocoa之进阶篇](http://www.jianshu.com/p/e10e5ca413b7)
+
+[ReactiveCocoa框架菜鸟入门（五）——信号的FlattenMap与Map](http://demo.netfoucs.com/abc649395594/article/details/46552865)
+
+[iOS开发之ReactiveCocoa下的MVVM](http://www.tuicool.com/articles/J7j6bmR)
+
+[ReactiveCocoa与Functional Reactive Programming](http://www.cnblogs.com/linyawen/p/3522023.html)
 
 ##进阶
 
